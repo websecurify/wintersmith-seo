@@ -1,0 +1,9 @@
+{
+  "name": "wintersmith-seo",
+  "version": "1.0.0",
+  "description": "A wintersmith plugin to keep track of seo issues.",
+  "author": "Websecurify",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
