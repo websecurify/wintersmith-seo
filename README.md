@@ -1,3 +1,5 @@
+[![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
+
 # wintersmith-seo
 
 [Wintersmith](https://github.com/jnordberg/wintersmith) plugin for keeping track of SEO issues.
